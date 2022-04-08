@@ -1,0 +1,225 @@
+,Player,Predictions,Labels
+0,Jailson (GOL),0.0,0.0
+1,Patric (LAT),0.01116,0.0
+2,Marquinhos Santos (TEC),0.0,0.0
+3,Juninho (MEI),0.0,0.0
+4,Alê (MEI),0.0,0.0
+5,Everaldo (ATA),0.0044,0.0
+6,Marlon (LAT),0.0,0.0
+7,Lucas Kal (MEI),0.003,0.0
+8,Éder (ZAG),0.0,0.0
+9,Iago Maidana (ZAG),0.0,0.0
+10,Pedrinho (ATA),0.0,0.0
+11,Paulinho Bóia (ATA),0.0,0.0
+0,Terans (MEI),0.0,0.0
+1,Cuello (ATA),0.00294,0.0
+2,Pablo (ATA),0.0,0.0
+3,Pedro Henrique (ZAG),0.0,0.0
+4,Alberto Valentim (TEC),0.0,0.0
+5,Lucas Halter (ZAG),0.0,0.0
+6,Bento (GOL),0.0,0.0
+7,Hugo Moura (MEI),0.003,0.0
+8,Christian (MEI),0.0044,0.0
+9,Abner Vinícius (LAT),0.0,0.0
+10,Marcelo Cirino (ATA),0.0,0.0
+11,Orejuela (LAT),0.0,0.0
+0,Luan Polli (GOL),0.0,0.0
+1,Marlon Freitas (MEI),0.00882,0.0
+2,Wanderson (ZAG),0.0,0.0
+3,Jefferson (LAT),0.0,0.0
+4,Umberto Louzer (TEC),0.0,0.0
+5,Shaylon (MEI),0.0,0.0
+6,Dudu (LAT),0.0,0.0
+7,Jorginho (MEI),0.003,0.0
+8,Baralhas (MEI),0.0044,0.0
+9,Edson (MEI),0.0,0.0
+10,Wellington Rato (MEI),0.0,0.0
+11,Léo Pereira (ATA),0.0,0.0
+0,Hulk (ATA),0.0,0.0
+1,Zaracho (MEI),0.03616,0.0
+2,Everson (GOL),0.0,0.0
+3,Nacho Fernández (MEI),0.0,0.0
+4,Keno (ATA),0.0,0.0
+5,Guilherme Arana (LAT),0.0008,0.0
+6,Antonio Mohamed (TEC),0.0,0.0
+7,Nathan Silva (ZAG),0.0,0.0
+8,Allan (MEI),0.0,0.0
+0,Muriqui (ATA),0.0,0.0
+1,Bruno Cortez (LAT),0.03752,0.0
+2,Morato (ATA),0.0,0.0
+3,Jean Cléber (MEI),0.0,0.0
+4,Douglas Friedrich (GOL),0.0,0.0
+5,Copete (ATA),0.0044,0.0
+6,Vinícius Leite (MEI),0.0,0.0
+7,Raniele (MEI),0.0034,0.0
+8,Bressan (ZAG),0.0,0.0
+9,Eduardo Barroca (TEC),0.0,0.0
+10,Lucas Ventura (MEI),0.0,0.0
+0,Gatito Fernández (GOL),0.0,0.0
+1,Kanu (ZAG),0.00882,0.0
+2,Daniel Borges (LAT),0.0,0.0
+3,Chay (MEI),0.0,0.0
+4,Erison (ATA),0.0,0.0
+5,Jonathan Silva (LAT),0.0,0.0
+6,Patrick de Paula (MEI),0.0,0.0
+7,Lucas Piazon (MEI),0.0,0.0
+8,Philipe Sampaio (ZAG),0.0044,0.0
+9,Luís Oyama (MEI),0.0,0.0
+10,Luís Castro (TEC),0.0,0.0
+11,Victor Sá (ATA),0.0,0.0
+0,Aderlan (LAT),0.0,0.0
+1,Cleiton (GOL),0.00294,0.0
+2,Ytalo (ATA),0.0,0.0
+3,Maurício Barbieri (TEC),0.0,0.0
+4,Léo Ortiz (ZAG),0.0,0.0
+5,Hyoran (MEI),0.0,0.0
+6,Natan (ZAG),0.0,0.0
+7,Bruno Tubarão (ATA),0.003,0.0
+8,Luan Cândido (LAT),0.0,0.0
+9,Helinho (ATA),0.0,0.0
+10,Eric Ramires (MEI),0.0,0.0
+11,Jadsom Silva (MEI),0.0,0.0
+0,Vina (MEI),0.0,0.0
+1,Bruno Pacheco (LAT),0.00882,0.0
+2,Mendoza (ATA),0.0,0.0
+3,Nino Paraíba (LAT),0.0,0.0
+4,Luiz Otávio (ZAG),0.0,0.0
+5,João Ricardo (GOL),0.0,0.0
+6,Zé Roberto (ATA),0.0,0.0
+7,Richardson (MEI),0.003,0.0
+8,Fernando Sobral (MEI),0.0,0.0
+9,Messias (ZAG),0.0,0.0
+10,Lima (MEI),0.0,0.0
+11,Dorival Júnior (TEC),0.0,0.0
+0,Renato Augusto (MEI),0.0,0.0
+1,Cássio (GOL),0.01114,0.0
+2,Róger Guedes (ATA),0.0,0.0
+3,Willian (MEI),0.0,0.0
+4,João Victor (ZAG),0.0,0.0
+5,Adson (MEI),0.0,0.0
+6,Raul Gustavo (ZAG),0.003,0.0
+7,Du Queiroz (MEI),0.003,0.0
+8,Gil (ZAG),0.0,0.0
+9,Giuliano (MEI),0.0,0.0
+10,Vítor Pereira (TEC),0.0,0.0
+0,Egídio (LAT),0.0,0.0
+1,Léo Gamalho (ATA),0.00294,0.0
+2,Willian Farias (MEI),0.003,0.0
+3,Luciano Castán (ZAG),0.0,0.0
+4,Alex Muralha (GOL),0.0,0.0
+5,Gustavo Morínigo (TEC),0.0,0.0
+6,Andrey (MEI),0.0,0.0
+7,Thonny Anderson (MEI),0.003,0.0
+8,Alef Manga (ATA),0.0,0.0
+9,Igor Paixão (ATA),0.0,0.0
+10,Warley (LAT),0.0,0.0
+11,Henrique (ZAG),0.0,0.0
+0,Pintado (TEC),0.0,0.0
+1,João Lucas (LAT),0.03752,0.0
+2,Walter (GOL),0.0,0.0
+3,Elton (ATA),0.0,0.0
+4,Marllon (ZAG),0.0,0.0
+5,Rivas (MEI),0.0,0.0
+6,Rodriguinho (MEI),0.0,0.0
+7,Igor Cariús (LAT),0.003,0.0
+8,Alesson (ATA),0.0,0.0
+9,Alan Empereur (ZAG),0.0,0.0
+10,Pepê (MEI),0.0,0.0
+11,Marcão Silva (MEI),0.0,0.0
+0,Gabriel (ATA),0.0036,0.0
+1,Willian Arão (MEI),0.00882,0.0
+2,Bruno Henrique (ATA),0.0,0.0
+3,Paulo Sousa (TEC),0.0,0.0
+4,David Luiz (ZAG),0.0,0.0
+5,Everton Ribeiro (MEI),0.0,0.0
+6,Matheuzinho (LAT),0.0,0.0
+7,Gomes (MEI),0.0,0.0
+8,Lázaro (MEI),0.0,0.0
+0,Arias (MEI),0.0,0.0
+1,Calegari (LAT),0.00882,0.0
+2,Cano (ATA),0.0,0.0
+3,Fábio (GOL),0.0,0.0
+4,Abel Braga (TEC),0.0,0.0
+5,Nino (ZAG),0.0,0.0
+6,Ganso (MEI),0.0,0.0
+7,Manoel (ZAG),0.003,0.0
+8,David Braz (ZAG),0.0,0.0
+9,Yago Felipe (MEI),0.0,0.0
+10,Cristiano (LAT),0.0,0.0
+11,André (MEI),0.0,0.0
+0,Yago Pikachu (MEI),0.0,0.0
+1,Silvio Romero (ATA),0.00882,0.0
+2,Juan Vojvoda (TEC),0.0,0.0
+3,Marcelo Benevenuto (ZAG),0.0,0.0
+4,Max Walef (GOL),0.0,0.0
+5,Titi (ZAG),0.0,0.0
+6,Lucas Crispim (MEI),0.0,0.0
+7,Moisés (ATA),0.003,0.0
+8,Lucas Lima (MEI),0.0044,0.0
+9,José Welison (MEI),0.0,0.0
+10,Hércules (MEI),0.0,0.0
+0,Tadeu (GOL),0.0,0.0
+1,Fellipe Bastos (MEI),0.01116,0.0
+2,Elvis (MEI),0.0,0.0
+3,Reynaldo (ZAG),0.0,0.0
+4,Auremir (MEI),0.0,0.0
+5,Maguinho (LAT),0.0,0.0
+6,Danilo Barcelos (LAT),0.0,0.0
+7,Glauber Ramos (TEC),0.008,0.0
+8,Sidnei (ZAG),0.0,0.0
+9,Luiz Filipe (ATA),0.0,0.0
+0,Daniel (GOL),0.0,0.0
+1,Edenílson (MEI),0.013980000000000001,0.0
+2,Bruno Méndez (ZAG),0.0,0.0
+3,Gabriel (MEI),0.0,0.0
+4,Kaíque Rocha (ZAG),0.0,0.0
+5,Liziero (MEI),0.0,0.0
+6,Bustos (LAT),0.0,0.0
+7,Maurício (MEI),0.0,0.0
+8,Alexander Medina (TEC),0.0,0.0
+0,Edinho (ATA),0.0,0.0
+1,Marlon (MEI),0.01116,0.0
+2,Paulo Miranda (ZAG),0.0,0.0
+3,Busanello (LAT),0.0,0.0
+4,César (GOL),0.0,0.0
+5,Rafael Forster (ZAG),0.0,0.0
+6,Capixaba (ATA),0.003,0.0
+7,Ricardo Bueno (ATA),0.0,0.0
+8,Jadson (MEI),0.0,0.0
+9,Eduardo Baptista (TEC),0.0,0.0
+10,Rodrigo Soares (LAT),0.0,0.0
+11,Yuri Lima (MEI),0.0,0.0
+0,Raphael Veiga (MEI),0.023,0.0
+1,Weverton (GOL),0.035679999999999996,0.0
+2,Dudu (ATA),0.0036,0.0
+3,Gustavo Gómez (ZAG),0.0,0.0
+4,Abel Ferreira (TEC),0.0,0.0
+5,Gustavo Scarpa (MEI),0.0,0.0
+6,Marcos Rocha (LAT),0.0,0.0
+7,Zé Rafael (MEI),0.0,0.0
+8,Murilo (ZAG),0.0,0.0
+9,Gabriel Veron (ATA),0.0,0.0
+10,Danilo (MEI),0.0,0.0
+0,João Paulo (GOL),0.0,0.0
+1,Marcos Leonardo (ATA),0.01114,0.0
+2,Ricardo Goulart (MEI),0.0,0.0
+3,Rodrigo Fernández (MEI),0.0,0.0
+4,Madson (LAT),0.0,0.0
+5,Eduardo Bauermann (ZAG),0.0,0.0
+6,Lucas Braga (ATA),0.0,0.0
+7,Fabián Bustos (TEC),0.0,0.0
+8,Lucas Barbosa (MEI),0.0,0.0
+9,Willian Maranhão (MEI),0.0,0.0
+10,Maicon (ZAG),0.0,0.0
+0,Nikão (MEI),0.0,0.0
+1,Rogério Ceni (TEC),0.00618,0.0
+2,Calleri (ATA),0.0,0.0
+3,Rafinha (LAT),0.0,0.0
+4,Igor Gomes (MEI),0.0,0.0
+5,Léo (ZAG),0.0,0.0
+6,Eder (ATA),0.0,0.0
+7,Jandrei (GOL),0.0,0.0
+8,Diego (ZAG),0.0,0.0
+9,Alisson (MEI),0.0,0.0
+10,Welington (LAT),0.0,0.0
+11,Pablo Maia (MEI),0.0,0.0
